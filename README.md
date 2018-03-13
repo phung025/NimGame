@@ -1,3 +1,5 @@
+# Interactive Nim Game
+
 <a href="url"><img src="images/Screen Shot 2018-03-12 at 23.34.30.png" align="center" height="45%" width="45%" ></a>
 <a href="url"><img src="images/Screen Shot 2018-03-12 at 23.34.47.png" align="center" height="45%" width="45%" ></a>
 
